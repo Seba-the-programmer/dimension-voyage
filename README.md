@@ -37,4 +37,4 @@ It's text adventure and logical game running as web application. All source code
 
 [1]: https://vuejs.org/
 [2]: https://gridsome.org/
-[3]: https://github.com/Seba-the-programmer/text-game/tree/developing
+[3]: https://github.com/Seba-the-programmer/dimension-voyage/tree/master/developing
